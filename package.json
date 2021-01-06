@@ -74,7 +74,7 @@
         ]
     },
     "dependencies": {
-        "axios": "0.17.1",
+        "axios": "0.21.1",
         "echarts": "4.1.0",
         "electron-updater": "^3.2.3",
         "element-china-area-data": "^4.1.1",
